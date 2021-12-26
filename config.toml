@@ -1,0 +1,41 @@
+# Setup
+
+baseURL = "http://anniesui.org/"
+languageCode = "en-us"
+title = "Welcome to Annie's Blog ✍️"
+theme = "etch"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+ignoreErrors = ["error-missing-instagram-accesstoken"]
+
+[params]
+  description = "Your site description"
+  copyright = "Copyright © 2021 Annie Sui"
+  dark = "auto"
+  highlight = true
+  google_fonts = [
+    ["Fira Code", "400, 700"],
+    ["Open Sans", "400, 400i, 700, 700i"],
+    ["Nunito Sans", "300"],
+    ["Nunito", "200, 300"]
+  ]
+
+  heading_font = "Fira Code"
+  body_font = "Open Sans"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    # title = "posts"
+    url = "/"
+    weight = 10
+
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allows HTML in Markdown
+  unsafe = true
