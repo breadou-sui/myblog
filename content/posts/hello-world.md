@@ -9,8 +9,9 @@ tags = [
 +++
 
 Those were the two words I posted on my Facebook timeline from the other side of reality.
-
-![Hello world post](/hello-world-post.png)
+<div id="hello-world-section">
+	<p><img src="/hello-world-post.png" alt="hello-world-post" width="70%"/></p>
+</div>
 
 The last thing I remembered doing was solving a coding interview problem with my friends over a Discord call. It involved doing breadth-first search (BFS) on a binary tree. In a typical BFS algorithm, you instantiate a queue, enqueue the root node, dequeue that node, and process the node's children until there are no more nodes left to visit. Something along these lines if you were to do it in Java:
 {{< highlight java >}}
@@ -116,7 +117,7 @@ why do I feel like I'm writing a poem
 
 The actual reality I discovered once I returned? Mania. No, not the Cake Mania game with that art style you detested as a child. Though you claimed to hate the primary color palette, the oh-so-typical Flash game lineart, the rush of anxiety you knew the game would cause even before playing it, in truth, you thought the protagonist Jill Evans was lowkey hot. But you didn't know it at the time, because you were just an 11-year-old who would only learn of the phrase "internalized homophobia" half a decade later. 
 
-Those feelings you had bottled up inside for years will eventually spill over. They'll evaporate, condense, precipitate, repeat. When you freeze, they'll expand. They're never going to disappear. How does it feel knowing that for the rest of your life, you're gonna have to deal with something that was inside of you all along?
+Those feelings you had bottled up inside for years will eventually spill over. They'll evaporate, condense, precipitate, repeat. When you freeze, they'll expand. They're never going to disappear. How does it feel knowing that for the rest of your life, you're gonna have to deal with something that was inside you all along?
 
 																												. . .
 There are a number of things I want to convey in this blog. Personal reflections. My aspirations of becoming a DJ as a retired classical violinist & pianist. How difficult it is to combat the fluctuations in mental health as a neurodivergent girl in tech. 
