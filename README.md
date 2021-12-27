@@ -1,2 +1,2 @@
 # myblog
-musings of a manic pixie dream girl
+musings of a pixie dream girl
