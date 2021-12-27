@@ -17,7 +17,7 @@ There were quite a number of jumpscares from Ib. In one of them, a painting of a
 In one of the endings, Ib forgets Garry because of a girl named Mary who eats the candy that Garry gave to Ib. Mary is actually a painting but wants to live her life as a human in the real world. In order for her to do that, she needs to sacrifice the life of a person. I'll leave it to you to guess who that individual was.
 
 
-<div id="ib-reunited-section" style="text-align: center">
+<div id="ib-reunited-section" style="text-align: center; margin-top: 30px; margin-bottom: 30px">
 	<p><img src="/ib-reunited-ending.png" alt="ib-reunited-ending" width="50%"/></p>
 </div>
 Unfortunately, there isn't an ending where Mary, Garry, and Ib can all be saved. But like any other RPG series, you can experience multiple endings depending on the decisions you make in the game. If you think about it carefully, the RPG realm is pretty much a simulator of life with an undo button.
@@ -32,6 +32,10 @@ Over time, I've come to realize the flaws in working towards something with the 
 I'm sounding overly critical here, but there's a difference between being a pessimist and a realist. Villains and heroes, virtues and vices, good and bad... we're so used to thinking, seeing, and breathing in black and white, when in reality there are so many grays in-between. 
 
 In the end, we're all just trying to live our best lives. Isn't that right?
+
+<div id="mary-corse-section" style="text-align: center; margin-top: 25px; margin-bottom: 20px">
+	<p><img src="/mary-corse.jpg" alt="mary-corse-art" width="40%"/></p>
+</div>
 
 <i> The one I chased and grasped was the cruel binary system. <br>
 	I want to be fascinated by the place where dreams continue---the world. <br>
