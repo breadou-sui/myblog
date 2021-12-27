@@ -120,7 +120,7 @@ The actual reality I discovered once I returned? Mania. No, not the Cake Mania g
 Those feelings you had bottled up inside for years will eventually spill over. They'll evaporate, condense, precipitate, repeat. When you freeze, they'll expand. They're never going to disappear. How does it feel knowing that for the rest of your life, you're gonna have to deal with something that was inside you all along?
 
 																												. . .
-There are a number of things I want to convey in this blog. Personal reflections. My aspirations of becoming a DJ as a retired classical violinist & pianist. How difficult it is to combat the fluctuations in mental health as a neurodivergent girl in tech. 
+There are a number of things I want to convey in this blog. Personal reflections. My aspirations of becoming a DJ as a retired classical violinist & pianist. How difficult it is to combat the fluctuations in mental health as a neuroatypical girl in tech. 
 
 Because when it's time for me to disappear from this world, I want to be remembered for something good. And I'm sure that other people will feel the same, if not already.
 
