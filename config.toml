@@ -10,7 +10,7 @@ pygmentsUseClasses = true
 ignoreErrors = ["error-missing-instagram-accesstoken"]
 
 [params]
-  description = "Your site description"
+  description = "musings of a pixie dream girl"
   copyright = "Copyright © 2021 Annie Sui"
   dark = "auto"
   highlight = true
