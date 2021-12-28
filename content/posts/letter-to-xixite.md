@@ -44,7 +44,8 @@ Dear 嘻嘻特，
 我希望有一天我们可以一起在纽约见面。我会带你吃最好吃的brunch🥑，去最好的面包店🍞和博物馆🎨。虽然你不喜欢avocado toast，不过这个我能理解。说实话，我上来也不是太喜欢。但这里有好多中国没有的早餐，我想让你试一下。就像纽约喝不到的85°C柚子茶，或麦凯乐后面的锅盔。希望这个疫情能快点结束，咱们再骚and浪😜🥵🥴，吃喝玩乐🥤
 
 <div id="holding-hands-section" style="text-align: center;">
-	<p><img src="/holding-hands.jpg" alt="holding-hands" width="40%"/></p>
+	<p><img src="/holding-hands.jpg" alt="holding-hands" width="40%" style="float: left; margin-left: 70px"/></p>
+	<p><img src="/zoom-love.jpg" alt="zoom-love" width="30%"/></p>
 </div>
 
 爱你❤️，
