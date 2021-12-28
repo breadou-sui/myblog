@@ -1,6 +1,6 @@
 +++
 author = "Annie Sui"
-title = "✉️ A Letter To My 嘻嘻特"
+title = "💌 A Letter To My 嘻嘻特"
 date = "2021-12-28"
 description = "I miss you"
 tags = [
