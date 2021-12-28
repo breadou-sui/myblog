@@ -16,7 +16,7 @@ Welcome to my analysis of GIRL by Japan Animator Expo---one of the most beautifu
 
 GIRL is a sequel (though its plot reads more like a prequel) to ME!ME!ME! by TeddyLoid, which is another work of social commentary that I might analyze in a future post. The song is split into two halves A and B. For now, I'm only going to focus on part A since there's a rich amount of material to be covered there.
 
-There's no denying that the animation is filled with sexual imagery from the start. The animation opens up with the protagonist sitting in a boat shaped like a clitorus. 
+There's no denying that the animation is filled with sexual imagery from the start. The animation opens up with the protagonist sitting in a boat shaped like a clitoris. 
 
 <div id="girl-boat-section" style="margin-left: 60px">
 	<p><img src="/daoko-boat.png" alt="daoko-boat" width="95%"/></p>
