@@ -29,7 +29,7 @@ Over time, I've come to realize the flaws in working towards something with the 
 </i>
 
 
-I'm sounding overly critical here, but there's a difference between being a pessimist and a realist. Heroes and villains, virtues and vices, good and bad... we're so used to thinking, seeing, and breathing in black and white, when in reality there are so many grays in-between. 
+I'm sounding overly critical here, but there's a difference between being a pessimist and a realist. Heroes and villains, virtues and vices, good and bad... we're so used to thinking, seeing, and breathing in black and white, when in reality there are so many grays in-between. I think Ib encourages us to seek the colors underlying those hints of gray.
 
 In the end, we're all just trying to live our best lives. Isn't that right?
 
