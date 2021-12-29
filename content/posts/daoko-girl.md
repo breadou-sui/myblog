@@ -51,10 +51,14 @@ As viewers, we find ourselves immersed in the world that the protagonist creates
 
 By refusing to eat the apple, our protagonist denies the truth behind her fantasy and ultimately chooses her own universe over reality. Perhaps this moment alludes to the way teenage girls nowdays often wish to classify themselves as being different from the dating norm (I say this because I've been there myself). They present themselves as "quirky" to become more likeable, engage in riskier behavior to draw attention, and seek pleasure in an independent routine that, at first sight, seems to be fun. In short, they assert their individuality by resisting the image of the "good," "innocent" girl they're expected to become.
 
+<div id="girl-prince-section" style="margin-left: 60px; margin-top: 20px">
+	<p><img src="/daoko-horse.png" alt="daoko-prince" width="95%"/></p>
+</div>
+
 Although many participants of <i>enjo kōsai</i> will perceive their actions to be a form of empowerment, what individuals tend not to realize---as feminist Chizuko Ueno notes in her article "Self-determination on sexuality?"---is that they're reinforcing the very structures that uphold the patriarchical society by using their body to serve the male desire. Like an illusory trap set up by the escapee themselves, with who to blame?
 
-<div id="girl-prince-section" style="margin-left: 60px">
-	<p><img src="/daoko-horse.png" alt="daoko-prince" width="95%"/></p>
+<div id="girl-underwear-section" style="margin-left: 60px; margin-top: 20px">
+	<p><img src="/daoko-underwear.png" alt="daoko-underwear" width="95%"/></p>
 </div>
 
 The world that keeps destroying itself. The prince charming that doesn't exist. The masturbatory indulgence that leaves a bitter taste in the aftermath.
