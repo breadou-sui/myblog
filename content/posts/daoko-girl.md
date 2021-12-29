@@ -63,7 +63,7 @@ Although many participants of <i>enjo kōsai</i> will perceive their actions to 
 
 The world that keeps destroying itself. The prince charming that doesn't exist. The masturbatory indulgence that leaves a bitter taste in the aftermath.
 
-I think that the protagonist is searching for something that deep down, she knows she's never going to find. She rebuilds the self-constructed fantasy world of so-called love over and over again, only to watch it crumble down, collapse, and disintegrate. What <i>enjo kōsai</i> provides is not stability, but rather a cyclic means of fantastical pleasure that is actually void.
+I think that the protagonist is searching for something that deep down, she knows she's never going to find. She rebuilds the self-constructed fantasy world of so-called love over and over again, only to watch it crumble down, collapse, and disintegrate. What <i>enjo kōsai</i> provides is not stability, but rather a cyclic means of fantastical pleasure that is rendered void by reality.
 
 <div id="girl-happiness-section" style="margin-left: 60px">
 	<p><img src="/daoko-girl-happiness.gif" alt="daoko-happy" width="70%" style="margin-left: 50px"/></p>
