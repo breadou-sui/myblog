@@ -35,7 +35,7 @@ Initially, she appears in a Japanese schoolgirl uniform with one arm draped over
 	<p><img src="/daoko-girl-clouds.png" alt="daoko-clouds" width="95%"/></p>
 </div>
 
-Colorful cosmetics, stripped underwear, <i> "body became skilled..." </i> Put in the context of society, it's clear that there's some form of sexual exchange going on---or more precisely, as <a href="https://incomputers.wordpress.com/2015/09/14/daoko-girl-an-analysis-pt-1/"> Niki claims in her analysis</a>---<i>enjo kōsai</i>, a term that describes a transactional relationship in which middle-aged men will compensate young women with money for companionship and often sexual favors in return. 
+Colorful cosmetics, stripped underwear, <i> "body became skilled..." </i> Put in the context of society, it's clear that there's some form of sexual exchange going on---or more precisely, as <a href="https://incomputers.wordpress.com/2015/09/14/daoko-girl-an-analysis-pt-1/"> Niki claims in her analysis</a>---<i>enjo kōsai</i>, a term that describes a transactional relationship in which middle-aged men compensate young women with money for companionship and often sexual favors in return. 
 
 The girl is surrounded by forms of material wealth, including makeup, heels, and lingerie. She sits in a seductive outfit with a mysterious expression, staring directly at the viewer with a calm, fixated gaze. The audience is plucked out of reality and lands in an unfamiliar yet enchanting place. Dare I say we even find ourselves enjoying this momentary pause in the lyrics. What did we do to deserve a scene so beautiful?
 
@@ -63,7 +63,7 @@ Although many participants of <i>enjo kōsai</i> will perceive their actions to 
 
 The world that keeps destroying itself. The prince charming that doesn't exist. The masturbatory indulgence that leaves a bitter taste in the aftermath.
 
-I think that the protagonist is searching for something that deep down, she knows she's never going to find. She rebuilds the self-constructed fantasy world of so-called love over and over again, only to watch it crumble down, collapse, and disintegrate. What <i>enjo kōsai</i> provides is not stability, but rather a cyclic means of fantastical pleasure that is rendered void by reality. And when I see the girl smile for the first time, I can't help but feel a bit sad.
+I think that the protagonist is searching for something that deep down, she knows she's never going to find. She rebuilds the self-constructed fantasy world of so-called love over and over again, only to watch it crumble down, collapse, and disintegrate. What <i>enjo kōsai</i> provides is not stability, but rather a cyclic means of fantastical pleasure that is rendered void by reality. And when I see the girl smile for the first time, I can't help but feel a little bit sad.
 
 <div id="girl-happiness-section" style="margin-left: 60px">
 	<p><img src="/daoko-girl-happiness.gif" alt="daoko-happy" width="70%" style="margin-left: 50px"/></p>
