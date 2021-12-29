@@ -69,7 +69,7 @@ I think that the protagonist is searching for something that deep down, she know
 	<p><img src="/daoko-girl-happiness.gif" alt="daoko-happy" width="70%" style="margin-left: 50px"/></p>
 </div>
 
-The next time you see a <a href="https://www.youtube.com/watch?v=0df7k__KEHw&t=421s"> YouTube video</a> titled "Japan's Schoolgirl Pin-Ups" in your recommendations, or witness the way older men stare at 13-year-old idol Sakurai Yune with their suggestive gifts after her show, how does that make you really feel about this "just" society we live in?
+The next time you see a <a href="https://www.youtube.com/watch?v=0df7k__KEHw&t=421s"> YouTube video</a> titled "Japan's Schoolgirl Pin-Ups" in your recommendations, or witness the way older men stare at 13-year-old idol Sakurai Yune while holding their suggestive gifts after her show, how does that make you really feel about this "just" society we live in?
 
 <i>
 	I love, I love, I love... I want to know <br>
