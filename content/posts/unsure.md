@@ -9,38 +9,38 @@ tags = [
 +++
 
 <div style="text-align: center; margin-top: 20px">
-☆ Halsey <br>
+☆ Halsey ★<br> 
 
-★ Mariah Carey <br>
+★ Mariah Carey ☆<br>
 
-☆ Marilyn Monroe <br>
+☆ Marilyn Monroe ★<br>
 
-★ David Harbour <br>
+★ David Harbour ☆<br>
 
-☆ Demi Lovato <br>
+☆ Demi Lovato ★<br>
 
-★ Selena Gomez <br>
+★ Selena Gomez ☆<br>
 
-☆ Carrie Fisher <br>
+☆ Carrie Fisher ★<br>
 
-★ Patty Duke <br>
+★ Patty Duke ☆<br>
 
-☆ Frank Sinatra <br>
+☆ Frank Sinatra ★<br>
 
-★ Ernest Hemingway <br>
+★ Ernest Hemingway ☆<br>
 
-☆ Virginia Woolf <br>
+☆ Virginia Woolf ★<br>
 
-★ Edgar Allan Poe <br>
+★ Edgar Allan Poe ☆<br>
 
-☆ Gustav Mahler <br>
+☆ Gustav Mahler ★<br>
 
-★ Vincent van Gogh <br>
+★ Vincent van Gogh ☆<br>
 
-☆ Isaac Newton <br>
+☆ Isaac Newton ★<br>
 
-★ Kay Redfield Jamison <br>
+★ Kay Redfield Jamison ☆<br>
 
-☆ Me
+☆ Me ★<br>
 </div>
 
