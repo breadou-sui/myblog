@@ -33,9 +33,9 @@ I've watched <i>Carol</i> three times. I've read <i>The Price of Salt </i> twice
 
 I think <i> Citrus </i> is a horrible manga with great art. I believe there needs to be more 漫画 like <i> Lily (Yy)</i>. I smile when I see the girls in the music video of Tenny -- 159cm being silly together. I wonder what would've happened if Maurice and Clive actually got together. I would like more people to acknowledge that Abdellatif Kechiche never deserved the Palme d'Or. I think Casey and Izzie are meant to be. I think <i> Stranger Things</i> did justice to the gays through Robin's character portrayal.
 
-I hate it when people ask me whether I'm 50% attracted to men and 50% attracted to women. I wish that being straight wasn't a privilege. I wish I didn't fake a cringe face at eight years old when my mom told me that Obama wanted to legalize gay marriage. 
+I hate it when people ask me whether I'm 50% attracted to men and 50% attracted to women. I wish I didn't fake a cringe face at eight years old when my mom told me that Obama wanted to legalize gay marriage. I wish that being straight wasn't a privilege. 
 
-Yes, I'm angry. Yes, I'm being vulnerable and sharing these thoughts to the world of the Internet. And yes, I'm fucking scared knowing that there are people reading this and will likely have a different perception of me by the end of this post, for better or for worse. But if no one says something about it at the dinner table, I will. 
+Yes, I'm angry. Yes, I'm being vulnerable and sharing these thoughts to the world. And yes, I'm fucking scared knowing that there are people I know reading this and will likely have a different perception of me by the end of this post, for better or for worse. But if no one says something about it at the dinner table, I will. 
 
 I think that we've come a long way since Stonewall happened, but there is still a long journey ahead of us---particularly in the Asian community. I have queer Asian friends who continuously have to listen to their parents' anticipation of their marriage and future kids with someone of the opposite sex. I stumble in the uncertainty of my future too, tripping over the many scattered possibilities and what-ifs. 
 
