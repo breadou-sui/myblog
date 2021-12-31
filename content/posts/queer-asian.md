@@ -39,13 +39,15 @@ Yes, I'm angry. Yes, I'm being vulnerable and sharing these thoughts to the worl
 
 I think that we've come a long way since Stonewall happened, but there is still a long journey ahead of us---particularly in the Asian community. I have queer Asian friends who continuously have to listen to their parents' anticipation of their marriage and future kids with someone of the opposite sex. I stumble in the uncertainty of my future too, tripping over the many scattered possibilities and what-ifs. 
 
-It's so hard to talk about this, but I want to be a part of the change because I believe that it can and will happen. Whether that change means not having to force yourself to pretend a life of false happiness, mustering up the courage to post photos of you with your significant other on social media like any other couple, or say the phrase 我的女朋友 without the fear crawling up your neck...
+It's so hard to talk about this, but I want to be a part of the change because I believe that it can and will happen. Whether that change means not having to force yourself to pretend living a life of false happiness, mustering up the courage to post photos of you with your significant other on social media like any other couple, or say the phrase 我的女朋友 without having fear crawling up your neck...
 
 <div style="text-align: center">
 	<p><img src="/ruoxi-yilin.jpeg" alt="ruoxi-and-yiling" style="width: 50%"/></p>
 </div>
 
 Let's turn a new page as we enter 2022, and end on a hopeful note. Here's to acceptance🙏, 爱❤️, and more 百合漫画 🥂🌹
+
+<span style="font-size: 10px"> P.S. to whoever wrote a columbia confessions post about me thinking that im straight -- you should shoot your shot ;) </span>
 
 <br>
 🎵 Songs I listened to while writing this:
