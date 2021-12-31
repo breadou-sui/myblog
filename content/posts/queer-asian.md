@@ -12,7 +12,7 @@ tags = [
 	Mom said it isn't right. 代阿姨说同性恋恶心。<br>
 	Those cartoons I watched as a kid, the children's books I read, the jokes I heard in elementary school... <br>
 	There must be a reason why they always have a boy falling in love with a girl. <br>
-	So I'll be a good girl and follow the rules, because growing up, that's what I've been told to do.
+	So I'll be a good girl and follow the rules, because that's what I've always been told to do.
 </i>
 
 																												. . .
