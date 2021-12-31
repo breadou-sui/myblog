@@ -18,7 +18,7 @@ tags = [
 																												. . .
 But it's not as if I have a choice. Being queer isn't something that you decide. It just is. <br>
 
-We don't get to decide how or when we get to be born. We don't come out of our wombs knowing that we're straight. We don't get to choose our assigned sex at birth.
+We don't get to decide when or how we get to be born. We don't come out of our wombs knowing that we're straight. We don't get to choose our assigned sex at birth.
 
 In a conversation I had with a friend a while back, I learned that thousands of LGBTQ-identifying Chinese people will use apps to find people of the opposite sex to marry so that they can pass as straight to their family. Some of them continue to live their lives like that, and even have children with their partner to convince their families that they've secured the only type of future that their household will approve of.
 
