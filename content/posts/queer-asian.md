@@ -22,7 +22,7 @@ We don't get to decide when or how we get to be born. We don't come out of our w
 
 In a conversation I had with a friend a while back, I learned that thousands of LGBTQ-identifying Chinese people will use apps to find people of the opposite sex to marry so that they can pass as straight to their family. Some of them continue to live their lives like that, and even have children with their partner to convince their families that they've secured the only type of future that their household will approve of.
 
-It reminds me of a <a href="https://www.instagram.com/p/Bl32l0Mlr86/?utm_source=ig_embed&ig_rid=034562b1-caf7-4fa7-95c2-22f3a9af9597"> <span style="color: #598cd4"> Humans of New York post </span></a> I saw about 4 years ago. In it, a woman talks about a time when she took her husband to see Brokeback Mountain, and how he came out to her as gay after the movie despite their 30-year-old marriage. They have kids. They're still together.
+It reminds me of a <a href="https://www.instagram.com/p/Bl32l0Mlr86/?utm_source=ig_embed&ig_rid=034562b1-caf7-4fa7-95c2-22f3a9af9597"> <span style="color: #598cd4"> Humans of New York post </span></a> I saw about 4 years ago. In it, a woman talks about a time when she took her husband to see Brokeback Mountain, and how he came out to her as gay after the movie during their 30-year-old marriage. They have kids. They're still together.
 
 
 <div style="text-align: center">
