@@ -35,6 +35,10 @@ I think <i> Citrus </i> is a horrible manga with great art. I believe there need
 
 I hate it when people ask me whether I'm 50% attracted to men and 50% attracted to women. I wish I didn't fake a cringe face at eight years old when my mom told me that Obama wanted to legalize gay marriage. I wish that being straight wasn't a privilege. 
 
+<div style="text-align: center">
+	<p><img src="/bloom-into-you.png" alt="bloom-into-you" style="width: 60%"/></p>
+</div>
+
 Yes, I'm angry. Yes, I'm being vulnerable and sharing these thoughts to the world. And yes, I'm fucking scared knowing that there are people I know reading this and will likely have a different perception of me by the end of this post, for better or for worse. But if no one says something about it at the dinner table, I will. 
 
 I think that we've come a long way since Stonewall happened, but there is still a long journey ahead of us---particularly in the Asian community. I have queer Asian friends who continuously have to listen to their parents' anticipation of their marriage and future kids with someone of the opposite sex. I stumble in the uncertainty of my future too, tripping over the many scattered possibilities and what-ifs. 
