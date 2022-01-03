@@ -23,7 +23,7 @@ I haven't experienced this myself, but my hypothesis is that in undergoing the y
 So here are some strategies I've gathered in my years of observing, teaching, and struggling as a Columbia student.
 
 <h3> Don't clutter your slides with text. </h3>
-Nobody wants to look at an essay while you talk. No one has time to do so in the span of your presentation, and our brains can't process what you're saying while reading a Charles Dickens excerpt at the same time. Even worse, there's people who tend to jot everything down from the slides (I was one of them). You don't want students wondering where to look and scribbling down nonsense in panic mode when they could be paying attention to you. And chances are, if you're copy pasting sentences that you could read from the textbook, you're doing something wrong.
+Nobody wants to look at an essay while you talk. No one has time to do so in the span of your presentation, and our brains can't process what you're saying while reading a Charles Dickens excerpt at the same time. Even worse, there are people who tend to jot everything down from the slides (I was one of them). You don't want students wondering where to look and scribbling down nonsense in panic mode when they could be paying attention to you. And chances are, if you're copy pasting sentences that you could read from the textbook, you're doing something wrong.
 
 <h3> If there's a simpler way to teach it, do so. </h3>
 God, the number of times I wanted to just go up to the projector in Gen Chem I and teach the electron configuration tricks I'd learned in high school in a third of the time the professor did. I don't know how anyone made it through that class without having some exposure to high school chemistry. Look, I got an A+ in that class, but there's a reason I didn't stick with pre-med.
@@ -45,7 +45,7 @@ It sucks when you're trying your best to understand what's going on and then all
 The mental wellbeing of your students is something you should always keep in mind throughout your course. That spark you saw in students' eyes at the start of the semester is going to dwindle here and there. Of course, they have other stressors in their lives that you're not responsible for, but it is part of your job to keep that light going. Being patient and checking in from time to time means a lot more than you think.
 
 <h3> It's okay to be human. 👍 </h3>
-Yes, professors are human too, and yes, students tend to forget that. Of course, you need to maintain a level of professionalism as appropriate, but there's nothing wrong with dropping a couple jokes about your life that are relevant to the material here and there. In fact, I've found that analogies are one effective mechanism to convey ideas to students. <i> "Nondeterministic finite automata are like shooting your shot. You try all the possibilities until one of them finally accepts." </i> Okay, maybe not that example. But you get what I mean.
+Yes, professors are human too, and yes, students tend to forget that. Of course, you need to maintain a level of professionalism as appropriate, but there's nothing wrong with dropping a couple jokes about your life that are relevant to the material here and there. In fact, I've found that analogies are one effective mechanism to convey ideas to students. <i> "Nondeterministic finite automata are like shooting your shot. You try all the possibilities until one of them finally accepts." </i> (Okay, maybe not that example. But you get what I mean.)
 
 
 																												. . .
