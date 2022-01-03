@@ -26,18 +26,18 @@ A relationship is not a cure to depression. Nor is it an excuse to stop setting 
 
 You always need to be prepared for the event in which they leave. Emphasis on the word <i> prepared</i>. Of course, nobody wants it to happen. But if you're going to deny the possibility before it even takes place (<i>if</i> it takes place, that is), how are you going to face reality when it does happen?
 
-I'm writing this post as if these points should be obvious to everyone, but they really aren't. It took a good amount of shitstorms for me to realize this. I've been through it. I've witnessed my friends go through painful breakups. Somehow, we always end up thinking that this person is special, and should be treated as an exception of sorts. <i> These rules don't apply to us. </i> <i> No way that would ever happen to us. </i> <i> We're too good. </i>
+I'm writing this post as if these points should be obvious to everyone, but they really aren't. It took a good amount of shitstorms for me to realize this. I've been through it. I've witnessed my friends go through painful breakups. Somehow, we always end up thinking that this person is special, and should be treated as an exception of sorts. <i> These rules don't apply to us. </i> <i> No way that would ever happen. </i> <i> We're too good. </i>
 
 That's a naïve way of thinking that'll only add salt to your wounds later on.
 
-I've been told to lower my standards when it comes to finding someone. But I don't think I should. I think that if I'm going to devote the time and energy to improve myself, then I'm worthy of taking the time to find someone who deserves the result of my efforts. I'm not gonna just "settle" because I haven't found someone on the same wavelength as me. I mean, they can be the cosθ to my sinθ, but the people I've met are just straight up tanθ. Like straight up asymptotic to infinity. Actually, that doesn't sound so bad. That sounds kinda lit, actually. But my point still stands. After all, sin^2θ + cos^2θ makes 1. In the end, all the pythagorean identities can just be converted into each other :)
+I've been told to lower my standards when it comes to finding someone. But I don't think I should. I think that if I'm going to devote the time and energy to improve myself, then I'm worthy of taking the time to find someone who deserves the result of my efforts. I'm not gonna just "settle" because I haven't found someone on the same wavelength as me. I mean, they can be the cosθ to my sinθ, but the people I've met are just straight up tanθ. Like, straight up asymptotic to infinity. Actually, that doesn't sound so bad. That sounds kinda lit. But my point still stands. After all, sin^2θ + cos^2θ makes 1. In the end, all the pythagorean identities can just be converted into each other :)
 
 <div style="text-align: center">
 	<p><img src="/polar-coordinates.png" alt="polar coordinates" style="width: 100%"/></p>
 	<span style="font-size: 12px"> ima muthafuckin -8cos5θ polar coordinate that's what i am </span>
 </div>
 
-Anyhow, whether you're in the middle of processing a breakup or questioning why you're still single, you're not alone. There's so much more to life than finding that one person who you're already investing your happiness into just by beating yourself up over their absence. And yeah, sometimes it sucks to see all those smooches on social media, but the inner bad bitch within you knows you could and will do better.
+Anyhow, whether you're in the middle of processing a breakup or questioning why you're still single, you're not alone. There's so much more to life than finding that one person who you're already investing your happiness into just by beating yourself up over their absence. And yeah, sometimes it sucks to see all those smooches on social media, but the inner bad bitch within you knows you can and will do better.
 
 <br>
 🎵 Songs I listened to while writing this:
