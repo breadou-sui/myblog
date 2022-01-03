@@ -20,7 +20,7 @@ It's not the end of the fucking world if you split ways.
 The truth that everyone needs to hear?
 <h3> <i> You can't rely on another person for your happiness. </i></h3>
 
-If you think that finding someone is immediately going to solve your problems, you're in for a surprise. (In fact, they're probably going to add more problems to your life).
+If you think that finding someone is immediately going to solve your problems, you're in for an unpleasant surprise. (In fact, they're probably going to add more problems to your life).
 
 A relationship is not a cure to depression. Nor is it an excuse to stop setting personal goals for yourself. It's a great feeling to be with the person you "love", but if you find yourself focusing on them to the point where you start ignoring all your friends' texts and see GCal reminders with only your SO's name, maybe start questioning whether this relationship is really sustainable in the long-term.
 
