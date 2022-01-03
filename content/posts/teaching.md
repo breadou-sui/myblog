@@ -14,6 +14,10 @@ Now, I'm not claiming that I'm better than them by any means. After all, I'm jus
 
 But I do have years of experience as a teaching assistant and researcher under one of the most accomplished supervisors in the computer science field (she's a woman, in case you were imagining some middle-aged dude with glasses and a grey beard), and I strongly think that if you're going to devote the rest of your life to academia, you should at least hear a student's perspective to get a sense of why people have no idea what is going on when the professor speaks, why they drop a course or major, and why nobody seems to ask questions during class. 
 
+<div style="text-align: center">
+	<p><img src="/dijkstra.JPG" alt="dijkstra-diagram" style="width: 60%"/></p>
+</div>
+
 I haven't experienced this myself, but my hypothesis is that in undergoing the years-long journey of getting a PhD, the line between what is "common knowledge" and what is not becomes blurred. And that is why there is such a wide gap between the student and the professor, because professors don't know what the students don't know and the students themselves don't know what they don't know. And then the students can't even bring themselves to go to office hours to ask questions because there's this fear of exposing the void within their brain. They fear the potential interrogation about a concept they don't understand during their one-on-one conversation with the professor, and nobody wants to drive themselves down that rabbit hole. The result? An empty office and a washed up shore of unresolved questions.
 
 So here are some strategies I've gathered in my years of observing, teaching, and struggling as a Columbia student.
@@ -43,8 +47,8 @@ The mental wellbeing of your students is something you should always keep in min
 <h3> It's okay to be human. 👍 </h3>
 Yes, professors are human too, and yes, students tend to forget that. Of course, you need to maintain a level of professionalism as appropriate, but there's nothing wrong with dropping a couple jokes about your life that are relevant to the material here and there. In fact, I've found that analogies are one effective mechanism to convey ideas to students. <i> "Nondeterministic finite automata are like shooting your shot. You try all the possibilities until one of them finally accepts." </i> Okay, maybe not that example. But you get what I mean.
 
-<br>
 
+																												. . .
 These are just my personal thoughts. You're welcome to use this advice, or don't. You're also welcome to agree or disagree with my ideas. I'll probably look at this in ten years and reword some points, but the core ideas conveyed in this post aren't leaving anytime soon.
 
 🎵 Songs I listened to while writing this:
