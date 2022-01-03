@@ -12,7 +12,7 @@ If you're reading this, you, like the majority of people out there facing existe
 
 It's natural. Even people with significant others get lonely. I get lonely.
 
-But I think that as a whole, we've come to idealize relationships and mask the underlying issues that come with them. Nobody wants to talk about the real baggage to unpack, like the stress of planning what to do on Valentine's Day, the realization of how different your lifestyles are when you move in together, and the constant questioning of whether you really see a future with this person. And then one day, even the smallest things about them start to annoy you. The way he leaves his socks on the floor or never cleans up after himself. The way she never shows up to your dates on time. How you somehow always end up paying for the meal. 
+But I think that as a whole, we've come to idealize relationships and mask the underlying issues that come with them. Nobody wants to talk about the real baggage to unpack, like the stress of planning what to do on Valentine's Day, the realization of how different your lifestyles are when you move in together, and the constant questioning of whether you really see a future with this person. And then one day, even the smallest things about them start to annoy you. The way he leaves his socks on the floor and never cleans up after himself. The way she never shows up to your dates on time. How you somehow always end up paying for the meal. 
 
 Sometimes, you can work out those differences. Other times, it just doesn't work. That's okay. <br>
 It's not the end of the fucking world if you split ways. 
