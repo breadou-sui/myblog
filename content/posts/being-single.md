@@ -30,7 +30,7 @@ I'm writing this post as if these points should be obvious to everyone, but they
 
 That's a naïve way of thinking that'll only add salt to your wounds later on.
 
-I've been told to lower my standards when it comes to finding someone. But I don't think I should. I think that if I'm going to devote the time and energy to improve myself, then I'm worthy of taking the time to find someone who deserves the result of my efforts. I'm not gonna just "settle" because I haven't found someone on the same wavelength as me. I mean, they can be the cosθ to my sinθ, but the people I've met are just straight up tanθ. Like, straight up asymptotic to infinity. Actually, that doesn't sound so bad. That sounds kinda lit. But my point still stands. After all, sin^2θ + cos^2θ makes 1. In the end, all the pythagorean identities can just be converted into each other. So I'm secretly a tanθ :^)
+I've been told to lower my standards when it comes to finding someone. But I don't think I should. I think that if I'm going to devote the time and energy to improve myself, then I'm worthy of taking the time to find someone who deserves the outcome of my efforts. I'm not gonna just "settle" because I haven't found someone on the same wavelength as me. I mean, they can be the cosθ to my sinθ, but the people I've met are just straight up tanθ. Like, straight up asymptotic to infinity. Actually, that doesn't sound so bad. That sounds kinda lit. But my point still stands. After all, sin^2θ + cos^2θ makes 1. In the end, all the pythagorean identities can just be converted into each other. So I'm secretly a tanθ :^)
 
 <div style="text-align: center">
 	<p><img src="/polar-coordinates.png" alt="polar coordinates" style="width: 100%"/></p>
