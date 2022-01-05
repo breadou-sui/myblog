@@ -1,6 +1,4 @@
-<li>
-    <a href="{{ .Permalink }}">
-        {{ .Title }}
-        <small><time>{{ .Date.Format "Jan 2, 2006" }}</time></small>
-    </a>
-</li>
+<a style="font-size: 18px" href="{{ .Permalink }}">
+    {{ .Title }}
+    <a style="font-size: 17.5px; color: #757575; margin-left: 6px"><small><time><i>{{ .Date.Format "Jan 2, 2006" }}</i></time></small></a>
+</a>

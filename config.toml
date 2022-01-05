@@ -8,6 +8,8 @@ enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 ignoreErrors = ["error-missing-instagram-accesstoken"]
+paginate = 10
+paginate_path = "/posts/:num/"
 
 [params]
   description = "musings of a pixie dream girl"

@@ -1,5 +1,7 @@
 +++ 
-title = "About Me" 
+title = "👋 About Me" 
+date = "2021-12-25"
+description = "who am i?"
 +++
 
 <div>
