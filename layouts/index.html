@@ -1,4 +1,46 @@
 {{ define "main" }}
 {{ .Content }}
 {{- partial "posts.html" . -}}
+
+{{ $paginator := .Paginator }}
+
+
+{{ range $paginator.Pages }}
+  <div class="post" style="margin-top: 5px">
+    <a class="post__title">
+    	{{ .Render "li" }}
+    </a>
+  </div>
+{{ end }}
+
+
+<!-- If there's more than one page. -->
+{{ if gt $paginator.TotalPages 1 }}
+
+  <p class="pagination">
+
+    <!-- Previous page. -->
+    {{ if $paginator.HasPrev }}
+    <p class="pagination__item pagination__item--previous">
+      <a href="{{ $paginator.Prev.URL }}" class="pagination__link pagination__link--previous" style="color: #666666">
+        previous
+      </a>
+    </p>
+    {{ end }}
+  
+
+    <!-- Next page. -->
+    {{ if $paginator.HasNext }}
+    <p class="pagination__item pagination__item--next">
+      <a href="{{ $paginator.Next.URL }}" class="pagination__link pagination__link--next" style="color: #666666">
+        next
+      </a>
+    </p>
+
+    {{ end }}
+
+  </p><!-- .pagination -->
+{{ end }}
+
+
 {{ end }}
