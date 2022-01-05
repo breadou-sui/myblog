@@ -12,7 +12,7 @@ The hospital cheesecake was really good. So good to the point that I would go ba
 
 My memories from back then are still kind of murky, but I met a couple of pretty great people who I still think about from time to time. 
 
-B was really nice. He gave me his cheeseburger, a special item that was only available upon request. He was also really good at jigsaw puzzles. We were solving a 1000+ piece puzzle as a group that was 80s-snack-themed, and he could figure out the pieces that no one knew where to put in half a second. I remember one day when I witnessed an argument between him and a nurse, and I couldn't help but feel bad despite not knowing the details of the situation. Apparently I was trying to speak to him in Chinese during our first interaction.
+B was really nice. He gave me his cheeseburger, a special item that was only available upon request. He was also really good at jigsaw puzzles. We were solving a 1000+ piece puzzle as a group that was 80s-snack-themed, and he could figure out the pieces that no one knew where to put in half a second. I remember one day when I witnessed an argument between him and a nurse, and I couldn't help but feel bad despite not knowing the details of the situation. Apparently I was trying to speak to him in Mandarin during our first interaction.
 
 <div style="text-align: center">
 	<p><img src="/jigsaw-puzzle.jpeg" alt="jigsaw-puzzle" style="width: 65%"/></p>
