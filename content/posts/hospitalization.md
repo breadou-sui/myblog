@@ -18,7 +18,7 @@ B was really nice. He gave me his cheeseburger, a special item that was only ava
 	<p><img src="/jigsaw-puzzle.jpeg" alt="jigsaw-puzzle" style="width: 65%"/></p>
 </div>
 
-There was an LGBTQ guy from NYU who said that he really wanted to sink his teeth into a slice of buffalo chicken pizza. He seemed super friendly and sang incredibly well at the mini karaoke session. Even though he was one of the latest folks to join, he got along with everyone relatively quickly. I wish I remembered his Instagram username.
+There was an LGBTQ guy from NYU who said that he really wanted to sink his teeth into a slice of buffalo chicken pizza during our first conversation. He seemed super friendly and sang incredibly well at the mini karaoke session. Even though he was one of the latest folks to join, he got along with everyone relatively quickly. I wish I remembered his Instagram username.
 
 There was D, who I could never forget. He was a very soft spoken creative thinker and had a helix piercing. He had an emo aesthetic that I vibed with. He likes Yan-Yan. D wanted to get a PhD in psychology, a fitting field for someone of his gentle yet curious character. He told me I had photographic memory when he saw a slip of paper with a for-loop I'd written from memory because of the no-screens policy. While my memory is pretty vivid, I don't think I do. But his words felt like a compliment. Wherever he is, I hope he's doing well.
 
