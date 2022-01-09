@@ -139,4 +139,4 @@ If you made it this far, thanks for listening 🙂 If you have time, please chec
 
 
 ***
-<p><span class="nowrap"><span class="emojify">😖</span>im self consCIOUS of mY VOiceee </span><span class="nowrap"><span class="emojify">🎤</span> but i want the world to hear me sing </span><span class="nowrap"><span class="emojify"></span><span class="emojify">✌️</span> channel ur inner philosophy</p>
+<p><span class="nowrap"><span class="emojify">😖</span> im self consCIOUS of mY VOiceee </span><span class="nowrap"><span class="emojify">🎤</span> but i want the world to hear me sing </span><span class="nowrap"><span class="emojify"></span><span class="emojify">✌️</span> channel ur inner philosophy</p>
