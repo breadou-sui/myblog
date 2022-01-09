@@ -134,7 +134,10 @@ Tonight, I will express my gratitude for you <br>
 You and me, feelings that can’t be conveyed will get through
 </i>
 
-<br>
+<div style="text-align: center">
+	<p><img src="/beastars-procrastination.png" alt="beastars-procrastination" style="width: 95%"/></p>
+</div>
+
 If you made it this far, thanks for listening 🙂 If you have time, please check out YOASOBI's <a href="https://www.youtube.com/watch?v=x8VYWazR5mE"><span style="color: #598cd4">original song</a> and <a href="https://www.youtube.com/watch?v=j1hft9Wjq9U"><span style="color: #598cd4">Ikura's performance</span></a> of it on The First Take! This song is truly a gift to the world.
 
 
