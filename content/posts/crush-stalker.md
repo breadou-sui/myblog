@@ -47,4 +47,4 @@ I wonder what she's doing? Who she talkin' to?? Ooh, she updated her bio. Let's 
 I hope she doesn't catch me reading this. Maybe she knows already? 
 
 ***
-<p><span class="nowrap"><span class="emojify">🥴</span>this was so fun to write </span><span class="nowrap"><span class="emojify">😜</span><code>it's fucking satire stop being mad</code></span><span class="nowrap"><span class="emojify">🙈</span><span class="emojify">maybe im doing the same to u rn 🤔</span><code></code></p>
+<p><span class="nowrap"><span class="emojify">🥴</span> this was so fun to write </span><span class="nowrap"><span class="emojify">😜</span><code>it's fucking satire stop being mad</code></span><span class="nowrap"><span class="emojify">🙈</span><span class="emojify"> maybe im doing the same to u rn 🤔</span><code></code></p>
