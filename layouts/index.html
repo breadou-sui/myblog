@@ -23,7 +23,7 @@
     {{ if $paginator.HasPrev }}
     <p class="pagination__item pagination__item--previous">
       <a href="{{ $paginator.Prev.URL }}" class="pagination__link pagination__link--previous" style="color: #666666">
-        previous
+        newer
       </a>
     </p>
     {{ end }}
@@ -33,7 +33,7 @@
     {{ if $paginator.HasNext }}
     <p class="pagination__item pagination__item--next">
       <a href="{{ $paginator.Next.URL }}" class="pagination__link pagination__link--next" style="color: #666666">
-        next
+        older
       </a>
     </p>
 
