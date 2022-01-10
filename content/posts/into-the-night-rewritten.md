@@ -17,7 +17,7 @@ Anyway, for our final assignment, we had the option of doing a creative project 
 I think it turned out pretty well, and I'd like to share my recording of it here. Before listening to it, please read the short story <a href="https://fantasticmetropolis.com/i/division"><span style="color: #598cd4">here</span></a> or read my plot summary below.
 
 <h3> TLDR; Plot Summary and Literary Analysis [TW: depression, suicide] </h3>
-Basically, there's this mathematician girl named Renee, and one day she proves that 1=2. Unable to find any flaws in her logic, she becomes distressed at the thought of losing her purpose as a mathematician and attempts to take her own life. Carl, Renee's husband who prides himself in his compassion and empathetic character, is fixated on “trying to decipher” Renee through expressions that “normally revealed nothing” (77). He believes that her feelings could be understood through mere observation. Eventually, he realizes that he will never be able to understand what's going on inside of Renee's mind, and that he can't save their six-year-long marriage after all. <br>
+Basically, there's this mathematician girl named Renee, and one day she proves that 1=2. Unable to find any flaws in her logic, she becomes distressed at the thought of losing her purpose as a mathematician and attempts to take her own life. Carl, Renee's husband who prides himself in his compassion and empathetic character, is fixated on “trying to decipher” Renee through expressions that “normally revealed nothing” (77). He believes that her feelings could be understood through mere observation. Eventually, though, he realizes that he will never be able to understand what's going on inside of Renee's mind, and that he can't save their six-year-long marriage after all. <br>
 
 <i> “He opened his mouth to say that he knew exactly what she meant… But he stopped himself: for this was an empathy that separated rather than united them, and he couldn’t tell her that” (89). </i>
 
@@ -30,7 +30,7 @@ The main idea that Chiang is trying to convey is that our society is so fixated 
 </i>
 
 
-Carl and Renee's marriage falls apart partly due to this rigid definition of empathy that we as a society adhere to. The whole story begs the question, <i>how do we empathize with someone who we can't relate to? </i>
+Carl and Renee's marriage falls apart partly due to this rigid definition of empathy that we as a society adhere to. The whole story then begs the question, <i>how do we empathize with someone who we can't relate to? </i>
 
 <i>Division By Zero</i> is a work of science fiction. Not a story that you'd typically expect when you hear someone say "Sci-Fi," but it makes sense if you think about it.
 
