@@ -25,6 +25,10 @@ They don't wanna be here right now. Like, they reaaallyy don't wanna be here. Yo
 <h3> 4. The Asian Dude Who Could Be Your Uncle 🇨🇳</h3>
 HOOO Mah GAWD 舅舅 IS THAT YOU?? Lmao oops thought this was a WeChat video call. When you hear that Asian accent you just know shit's either going down or back up your a$$. Man's gonna ask you to return the intersection of two linked lists in O(n). It's all fun and games until he asks for O(1) space. You show him that your SAT studying in fifth grade did you wonders by pulling out your secret weapon: the two-pointer approach. You attack with those SAT II 800 math skills: A + C + B = B + C + A. YEAAA COMMUNICATIVE PROPERTY BOISSS LET;S GET IT!!1!
 
+<div style="text-align: center">
+	<p><img src="/linked-list-intersection.png" alt="intersection-of-two-linked-lists" style="width: 85%"/></p>
+</div>
+
 <h3> 5. The Woman 👩‍💻</h3>
 YOU JUST STRUCK GOLD IN THE MINE OF COAL. Okay, no promises about how she'll treat you during the interview, but acknowledge the difficulty of stumbling upon a female tech interviewer. I think I encountered one female interviewer for every 10 interviews I had (many of which had multiple rounds). When it happened, I immediately felt this silent exchange of "Great to see a fellow woman-identifying SWE in this land of tech bros." The Woman may seem like an easy pass, but don't underestimate her abilities. She could grill you any second, so don't get too cocky. And don't think that she's wrong during the interview because she's a woman. We put up with enough of that shit already.
 
