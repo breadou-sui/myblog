@@ -30,7 +30,7 @@ HOOO Mah GAWD 舅舅 IS THAT YOU?? Lmao oops thought this was a WeChat video cal
 </div>
 
 <h3> 5. The Woman 👩‍💻</h3>
-YOU JUST STRUCK GOLD IN THE MINE OF COAL. Okay, no promises about how she'll treat you during the interview, but acknowledge the difficulty of stumbling upon a female tech interviewer. I think I encountered one female interviewer for every 10 interviews I had (many of which had multiple rounds). When it happened, I immediately felt this silent exchange of "Great to see a fellow woman-identifying SWE in this land of tech bros." The Woman may seem like an easy pass, but don't underestimate her abilities. She could grill you any second, so don't get too cocky. And don't think that she's wrong during the interview because she's a woman. We put up with enough of that shit already.
+YOU JUST STRUCK GOLD IN THE MINE OF COAL. Okay, no promises about how she'll treat you during the interview, but acknowledge the difficulty of stumbling upon a female tech interviewer. I think I encountered one female interviewer for every 10 interviews I had (many of which had multiple rounds). When it happened, I immediately felt this silent exchange of "Great to see a fellow woman-identifying SWE in this land of tech bros." The Woman may seem like an easy pass, but don't underestimate her abilities. She could grill you any second, so don't get too cocky. And don't think that she's wrong during the interview just because she's a woman. We put up with enough of that shit already.
 
 <h3> 6. The Believer 🙏 </h3>
 The nicest one on the list so far. Genuinely believes in your abilities to succeed. Writes up a good eval despite your unfinished implementation and improper syntax. Judges on effort and not on your ability to memorize the solution to Alien Dictionary. Even though you got rejected, you remember their kindness and that alone is enough to inspire you to keep going in this unpredictable journey of tech. You wish that all interviewers would be like them.
@@ -39,14 +39,14 @@ The nicest one on the list so far. Genuinely believes in your abilities to succe
 Lurking on Handshake. Targets first and second years at Columbia. Posts an enticing internship job description until you learn that the opportunity is unpaid. Brags about the number of Ivy League interviewees they have lined up after you. Thinks they can be the next Facebook. Offers you minimum wage at the bare maximum. Wants you to accept their offer during the interview. "The Learning Experience™ > $$."
 
 <h3> 8. The Fellow ABC 👋</h3>
-Why, hello there. You're probably no more than 2 years older than me. You remember the pain of the interviewing process, don't you? All those hundreds of Leetcode questions and mock interviews you had to grind to get to where you are today? Well I'm in the boat you were in back then. Pls have mercy and save my soul. Whatever you do, just don't ask me to construct a binary tree given its preorder and inorder traversal. 
+Why, hello there. You're probably no more than 2 years older than me. You remember the pain of the interviewing process, don't you? All those hundreds of Leetcode questions and mock interviews you had to grind to get to where you are today? Well I'm in the same boat you were in back then. Pls have mercy and save my soul. Whatever you do, just don't ask me to construct a binary tree given its preorder and inorder traversal. 
 
 <br>
 
 Lowkey gives JomaTech vibes. Trying to be serious but you can't help but smirk as they speak. You see these guys often for trial interviews, except you're not supposed to know it's a trial interview but you can tell because there's a middle aged dude shadowing him. Don't worry, most of them will understand. They're probably gonna dip FAANG tomorrow and join the next VC unicorn startup anyway. 
 
 <h3> 9. The Texter 💬</h3>
-Okay, these people are just straight up dickheads. They don't even look at the screen when you talk. You can see the blue and grey text message bubbles in their camera reflection. "Mhm, mhm. SGTM. Go ahead and implement it" with their faces downturned. Too many of my friends have had this experience.
+Okay, these people are just straight up dickheads. They don't even look at the screen when you talk. You can see the blue and grey text message bubbles in their camera reflection. "Mhm, mhm. SGTM. Go ahead and implement it" with their faces downturned. Too many of my friends have had this sad experience.
 
 <h3> Summary </h3>
 You'll definitely encounter at least one of these, or even a combination of the above categories at your next interview. If you're an interviewer, which categories would you say you fall into? I personally think I'd be 1, 5, and 8. Maybe 2 if I'm feeling like a cocky girlboss. <br>
