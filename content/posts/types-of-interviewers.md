@@ -2,7 +2,7 @@
 author = "Annie Sui"
 title = "🧑‍💼 The 9 Types Of Interviewers You'll Meet In Tech"
 date = "2022-01-11"
-description = "just a girl passing bi"
+description = "based on my tech interview experiences"
 tags = [
     "emoji",
 ]
