@@ -27,7 +27,7 @@ dripping psychedelic ink <br>
 drawing the words <br>
 you used to cut into me <br>
 into your cerebral cortex <br>
-it's vivid, isn't it <br>
+it's vivid, isn't it? <br>
 
 my insecurities were buds of <br>
 my individuality in disguise <br>
