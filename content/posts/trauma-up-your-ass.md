@@ -1,7 +1,7 @@
 +++
 author = "Annie Sui"
 title = "🖌️ Word (Pain)ting"
-date = "2022-01-19"
+date = "2022-01-20"
 description = "ill shove my trauma up your ass"
 tags = [
     "emoji",
@@ -82,6 +82,6 @@ on this dirt that you'll eat
 i will climb to the top step-by-step <br>
 wounded, wilted, whatever <br>
 to see the most beautiful rainbow <br>
-you will never get to see.
+you will never get to see
 
 </i>
