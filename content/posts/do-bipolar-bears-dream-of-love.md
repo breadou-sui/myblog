@@ -73,4 +73,4 @@ Is that so much to ask?
 </i>
 
 *** 
-<span style="font-size: 14px">Author's Note: This piece was partly inspired by my childhood, the pandemic, Chang-rae Lee's <i>On Such a Full Sea</i>, the title of Phillip K. Dick's <i>Do Androids Dream of Electric Sheep?</i>, the opening verse of Caroline Polachek's <i>Hit Me Where It Hurts</i>, and brain memes.</span>
+<span style="font-size: 14px">Author's Note: This piece was partly inspired by my childhood, the COVID-19 pandemic, Chang-rae Lee's <i>On Such a Full Sea</i>, the title of Phillip K. Dick's <i>Do Androids Dream of Electric Sheep?</i>, the opening verse of Caroline Polachek's <i>Hit Me Where It Hurts</i>, and brain memes.</span>
