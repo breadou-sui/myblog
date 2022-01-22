@@ -64,6 +64,8 @@ gathering food by ourselves in those dark winter nights.
 
 But now it's you, me, and Dad <br>
 against the rest of the world <br>
+This world that was once so beautiful <br>
+Our world that was known as Earth
 
 I wish that we could be with the rest of our family <br> 
 I want things to be the way they used to be <br>
