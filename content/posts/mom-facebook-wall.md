@@ -1,7 +1,7 @@
 +++
 author = "Annie Sui"
 title = "🤦 POV: Your Mom Doesn’t Know How To Use Facebook"
-date = "2022-01-23"
+date = "2022-01-22"
 description = "someone pls teach this woman"
 tags = [
     "emoji"
