@@ -80,5 +80,5 @@ tags = [
 
 
 ***
-<p><span class="nowrap"><span class="emojify">😌</span> dw i taught her in the end </span><span class="nowrap"><span class="emojify">👩‍🏫</span><code>AMEN</code></span><span class="nowrap"><span class="emojify">🙏</span><span class="emojify"> beautiful! 🤩</span><code>mom... uk dartmouth isn't an ivy but ok 🤷</code></p>
+<p><span class="nowrap"><span class="emojify">😌</span> dw i taught her in the end </span><span class="nowrap"><span class="emojify">👩‍🏫</span><code>AMEN</code></span><span class="nowrap"><span class="emojify">🙏</span><span class="emojify"> beautiful! 🤩</span><code>mom... uk dartmouth isn't an ivy... WAIT IT IS 🤯</code></p>
 
