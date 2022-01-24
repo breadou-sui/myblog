@@ -23,9 +23,9 @@ tags = [
 
 <h3> Procedure </h3>
 1. Take one egg and separate its egg white from the yolk. <br>
-2. Pour egg white into the bowl. <br>
+2. Pour the egg white into the bowl. <br>
 3. Take the <span style="color: red">r</span><span style="color: orange">a</span><span style="color: #f0d529">i</span><span style="color: #42cf50">n</span><span style="color: #4294cf">b</span><span style="color: #ae83eb">o</span><span style="color: #e876e2">w</span> whisk and b̶̪̲̣̺̣͈̹͐̒́e̶̗̓ạ̵̝͠t̷͎̞̳͎̞̀̋̇ͅ egg white until it's shiny, fluffy, and deprived of pain. <i>don't stop...</i><br>
-4. Slowly pour 1/2 cup of sugar into the bowl and continue b̶̪̲̣̺̣͈̹͐̒́e̶̗̓ạ̵̝͠ting until large teardrop-shaped peaks form. <br>
+4. Slowly pour 1/2 cup of sugar into the bowl and continue b̶̪̲̣̺̣͈̹͐̒́e̶̗̓ạ̵̝͠ting until stiff teardrop-shaped peaks form. <br>
 5. Poke into the mixture using an index finger and tap the tip of your tongue. <br>
 6. Dip highlighter brush into bowl using non-dominant hand. <br> 
 7. Bring your brush to the 8.5" x 11" paper and close your eyes. <br>
@@ -36,7 +36,9 @@ tags = [
 12. Come back to this step the next time you're feeling sad. <br>
 13. Cry into the bunny ears contact lens case. <br>
 14. What's the worst thing someone's ever done to you? <br> 
-15. It's okay. You don't have to tell me. Shatter the screen of your iOS device instead. <br>
+
+																												. . . 
+It's okay. You don't have to tell me. Shatter the screen of your iOS device instead. <br>
 16. Marinate the glass shards in your tears for however long you want. <br>
 17. Sprinkle 1/2 teaspoon of sugar into each hole of the contact lens case. <br>
 18. Put the cap back onto the bunny contact lens case. <br>
@@ -47,7 +49,7 @@ tags = [
 23. Face your Canon EOS Rebel T7 towards the shattered iOS device lying on the ground and set a timer. <br>
 24. Smile into the shattered screen of your iOS device from above until you hear the camera click. <br>
 25. Clean up the remainder of the mess using the vacuum. <br>
-26. Eat the last egg in whatever style you want. You can even make an egg tart out of it. You deserve it. <br>
+26. Eat the last egg in whatever style you want. You can even make an egg tart out of it with the leftover sugar. You deserve it. <br>
 
 <h3> Additional Notes </h3>
 *Serves 1 to ±∞. Keep refrigerated for 3-5 sanity checks. <br>
