@@ -1,6 +1,6 @@
 +++
 author = "Annie Sui"
-title = "🍳 A Recipe For Happiness"
+title = "🥣 A Recipe For Happiness"
 date = "2022-01-24"
 description = "it ain't perfect, but it'll do"
 tags = [
