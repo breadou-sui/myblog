@@ -27,7 +27,7 @@ is that what i really want? <br>
 no, what i really want is this<br>
 
 i want to dig my tongue into the folds of your skin<br>
-but you're getting cold <br>
+but you're starting to get cold <br>
 should i let you shrivel up <br>
 or warm you up in the steamer my kitchen holds? <br>
 
