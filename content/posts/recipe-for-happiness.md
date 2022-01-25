@@ -49,7 +49,7 @@ It's okay. You don't have to tell me. Shatter the screen of your iOS device inst
 23. Face your Canon EOS Rebel T7 towards the shattered iOS device lying on the ground and set a timer. <br>
 24. Smile into the shattered screen of your iOS device from above until you hear the camera click. <br>
 25. Clean up the remainder of the mess using the vacuum. <br>
-26. Eat the last egg in whatever style you want. You can even make an egg tart out of it with the leftover sugar. You deserve it. <br>
+26. Eat the last egg in whatever style you want. You can even make an egg tart out of it with the leftover sugar. You deserve it after all your hard work. <br>
 
 <h3> Additional Notes </h3>
 *Serves 1 to ±∞. Keep refrigerated for 3-5 sanity checks. <br>
