@@ -21,17 +21,16 @@
 
     <!-- Previous page. -->
     {{ if $paginator.HasPrev }}
-    <p class="pagination__item pagination__item--previous">
+    <p class="pagination__item pagination__item--previous" style="display: inline; padding-right: 40px">
       <a href="{{ $paginator.Prev.URL }}" class="pagination__link pagination__link--previous" style="color: #666666">
         newer
       </a>
     </p>
     {{ end }}
-  
 
     <!-- Next page. -->
     {{ if $paginator.HasNext }}
-    <p class="pagination__item pagination__item--next">
+    <p class="pagination__item pagination__item--next" style="display: inline">
       <a href="{{ $paginator.Next.URL }}" class="pagination__link pagination__link--next" style="color: #666666">
         older
       </a>
