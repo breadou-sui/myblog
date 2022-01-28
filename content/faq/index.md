@@ -19,7 +19,7 @@ Events from the past, present, and future, ranging from good to bad and in-betwe
 Yeah. I started off with a basic Hugo template, customized the style to my liking, and added some extra technical features like pagination. I don't think it's <i>that</i> impressive, but I'm proud of it. There's a lot of debugging that goes on behind the scenes, but it's worth it.
 
 <h3> How would you describe your own writing? </h3>
-Snarky, defiant, and not-giving-a-fuck. 
+Snarky, defiant, and not-giving-a-fuuuuck. 
 
 <h3> Are you ok? </h3>
 Yes. I mean, that's what you want to hear, right? What does it really mean to be "ok" nowadays? When someone asks you "How are you?" when was the last time you said something other than "good"?
