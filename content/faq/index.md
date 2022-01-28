@@ -26,7 +26,7 @@ Yes. I mean, that's what you want to hear, right? What does it really mean to be
 
 In all seriousness, though, I appreciate your concern. While I understand that some of my writing might come off as dark, trauma-inducing, and sometimes concerning, not everything in my writing is going to be representative of reality. Some feelings will be exaggerated, while others may be more muted. Some passages will sound more fictional than others. But I guarantee that they are 100% true to my identity. 
 
-All's to say, my writing always has a purpose behind it. Whether it's to make a statement, pacify the chaos in my brain, or just be present. Think of my blog as an art gallery or museum exhibit that you somehow walked into with no prior knowledge of the artist. Take comfort in the fact that art is supposed to be discomforting. If we only stuck to bright colour palettes, we wouldn't be able to depict shadows.
+All's to say, my writing always has a purpose behind it. Whether it's to make a statement, pacify the chaos in my brain, or just be present. Think of my blog as an art gallery or museum exhibit that you somehow walked into with no prior knowledge of the artist. Take comfort in the fact that art can be discomforting. If we only stuck to bright colour palettes, we wouldn't be able to depict shadows.
 
 
 
