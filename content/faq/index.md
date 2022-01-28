@@ -5,7 +5,7 @@ description = "ur questions answered"
 +++
 
 <h3> What led you to start blogging? </h3>
-A while back, I was looking up my Facebook interviewer on LinkedIn and found their blog on their profile. The UI was relatively simple, but I loved how this simplistic design gave them the power to express themselves and showcase memorable parts of their life on a site they had created. It made me realize that even if I pursue software engineering in the long term, I can create other avenues of individual expression and channel my identity into a form of art. 
+A while back, I was looking up my Facebook interviewer on LinkedIn and found their blog on their profile. The UI was relatively simple, but I loved how this simplistic design gave them the power to express themselves and showcase memorable parts of their life on a site they had created. It made me realize that even if I pursue software engineering in the long term, I can use my computer science knowledge to create other avenues of individual expression and channel my identity into a form of art. 
 
 <h3> Why do you blog? </h3>
 At times throughout the day, I'll have these random thoughts that I want to keep hidden somewhere until they're ready to be released outside of my world. Some of them pop up during moments when they shouldn't, in which case I'm forced to play Whac-A-Mole with my thoughts. Many of them are buried within my subconscious, and they'll appear in dreams—perhaps more frequently than they should. 
