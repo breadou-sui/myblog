@@ -41,6 +41,13 @@ paginate_path = "/posts/:num/"
     url = "/about/"
     weight = 20
 
+    [[menu.main]]
+    identifier = "faq"
+    name = "faq"
+    title = "faq"
+    url = "/faq/"
+    weight = 30
+
 [permalinks]
   posts = "/:title/"
 
