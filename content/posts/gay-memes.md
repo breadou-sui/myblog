@@ -24,7 +24,7 @@ It's still a WIP, but I currently have two folders: "memes" and "gay memes lol."
 
 <div style="text-align: center;">
 	<p><img src="/clown-career.jpg" width="50%"/></p>
-	hi i sit in front of a computer for 12+ hours a day hbu?
+	hii i sit in front of a computer for 12+ hours a day hbu?
 </div>
 
 <div style="text-align: center; margin-top: 60px">
