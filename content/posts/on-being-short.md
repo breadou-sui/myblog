@@ -2,7 +2,7 @@
 author = "Annie Sui"
 title = "📏 The Pros and Cons of Being 5'2\""
 date = "2022-02-04"
-description = "based on my tech interview experiences"
+description = "i'm fun sized ok"
 tags = [
     "emoji",
 ]
