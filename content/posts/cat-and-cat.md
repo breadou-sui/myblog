@@ -28,7 +28,7 @@ A: "That sounds like the move. But then you're both just gonna end up playing th
 
 L: "Well, I'm not particularly in any rush right now. I think I'm going to ease into it slowly."
 
-A: "Okay yeah, that makes sense. If I'm ever asked whether I'm still single, I'll be like, "Yeah but I'm in high demand so you better hurry the f*** up before I get shipped off." People straight up be treating me like a package dusting in a warehouse when there's drivers all around. Not that it's particularly good or bad thing. I'm not gonna sit around and wait forever, but I ain't about that Amazon Prime one-day shipping either."
+A: "Okay yeah, that makes sense. If I'm ever asked whether I'm still single, I'll be like, "Yeah but I'm in high demand so you better hurry the f*** up before I get shipped off." People straight up be treating me like a package dusting in a warehouse when there's drivers all around. Not that it's particularly good or bad thing. I'm not gonna sit around and wait forever, but I ain't about that Amazon Prime one-day free shipping either."
 
 <div style="text-align: center">
 	<i> [L starts cackling over the phone.] </i>
