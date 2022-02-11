@@ -1,0 +1,11 @@
++++
+author = "Annie Sui"
+title = "🙄 Nobody Cares About Your LinkedIn Profile"
+date = "2022-02-10"
+description = ""
+tags = [
+    "emoji",
+]
++++
+
+We get it you founded your own company at the age of 16 dropped out of university made it to FAANG and left to become the CEO of the next unicorn startup while investing $50M in bitcoin since 2010 got 5's on all your APs in high school scored a 1580 on the SAT maintained a 4.12/4.0 GPA while triple majoring in religion economics and stats made it to phi beta kappa ate dinner with the president serve as the co-president of 5 clubs met everyone in the white house have 16k+ followers on TikTok went to an ivy league college have 3000+ connections scored dean's list for 5/6 semesters (and the only semester you didn't make it was when classes became mandatory P/D/F over the pandemic so in reality you would've been perfection had it not been for covid) furthermore you radiate social media influencer energy to the point where you're practically bretman rock without the gay you even created your own hashtag so that people could rave all about those inspirational moments you contributed to weekly standups at google even tho your coworkers always had their cameras off and were probably playing league in the background while you spoke and ate sweet baby rays with zuck in his backyard while texting about the latest stock market trend to sundar pichai and then proceeded to found not one not two but three companies upon your departure from the corporate world because you decided you were too good for that shit then wrote your own book advertised as a #1 nytimes bestseller listed poverty alleviation as one of your organization's primary causes have 99+ endorsements on over ten skills on your profile call yourself a "visual storyteller" like any other ux designer does nowadays were featured on forbes 30 under 30 stick that diversity label on your company site next to all the men under the "meet the team" section know how to program in html know how to use css even though you still need to click on ten stackoverflow articles to figure out how to center a div man you're so accomplished that you need to list not one not two not three not four but five positions in your title all separated by a | but in the end no one fucking cares because we're all immersed in this capitalist shitstorm called life. 
