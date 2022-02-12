@@ -11,7 +11,7 @@ maybe if we talked about it <br>
 we would have the courage to speak up <br>
 
 maybe if we talked about it <br>
-we would get the help we need <br>
+we would get the help we need sooner rather than later<br>
 
 maybe if we talked about it <br>
 we wouldn't associate therapy with shame <br>
@@ -40,5 +40,5 @@ we wouldn't stutter
 maybe if we talked about it <br>
 we'd have other things to worry about
 
-如果我们谈了这个事情 <br>
+如果我们谈论这个事情 <br>
 我们的想法就不会这么落后
