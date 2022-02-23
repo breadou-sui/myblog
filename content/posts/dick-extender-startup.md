@@ -68,5 +68,5 @@ yeule - Ending
 
 ***
 <div style="text-align: center; margin-top: 20px"
-	<p><span class="nowrap"><span class="emojify">2️⃣</span> <code>happy 2/22/22 peeps</code></span> <span class="nowrap"><span class="emojify">😟</span><code>hoping my future employers don't see this</code></span><span class="nowrap"><span class="emojify">🤤</span><code>im a fkin innovator</code></span></p>
+	<p><span class="nowrap"><span class="emojify">2️⃣</span> <code>happy 2/22/22 peeps</code></span> <span class="nowrap"><span class="emojify">😟</span><code>hoping my future employers don't see this</code></span><span class="nowrap"><span class="emojify">🤑</span><code>im a fkin innovator</code></span></p>
 </div>
