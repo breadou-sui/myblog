@@ -1,6 +1,6 @@
 +++
 author = "Annie Sui"
-title = "👱‍♀️ If Only She Were Normal"
+title = "🧬 If Only She Were Normal"
 date = "2022-02-27"
 description = ""
 tags = [
@@ -50,6 +50,6 @@ it's my escape <br>
 
 if only i were normal <br>
 but i don't wanna be <br>
-so deal with it <br>
-else leave me be
+i can't be <br>
+so leave me be
 
