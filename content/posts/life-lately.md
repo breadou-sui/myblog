@@ -41,10 +41,10 @@ description = "what i've been up to"
 	<p><img src="/life-lately-10.jpg" width="50%"/></p>
 </div> 
 <div style="text-align: center;">
-	<p><img src="/life-lately-12.jpg" width="50%"/></p>
+	<p><img src="/life-lately-13.png" width="50%"/></p>
 </div> 
 <div style="text-align: center;">
-	<p><img src="/life-lately-13.png" width="50%"/></p>
+	<p><img src="/life-lately-12.jpg" width="50%"/></p>
 </div> 
 <div style="text-align: center;">
 	<p><img src="/life-lately-16.png" width="100%"/></p>
