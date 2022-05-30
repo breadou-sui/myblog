@@ -1,6 +1,6 @@
 +++
 author = "Annie Sui"
-title = "🚏 Signs"
+title = "🚏 Early Signs"
 date = "2022-05-27"
 description = ""
 tags = [
