@@ -1,7 +1,7 @@
 +++
 author = "Annie Sui"
 title = "🚏 Early Signs"
-date = "2022-05-27"
+date = "2022-05-29"
 description = ""
 tags = [
     "emoji",
