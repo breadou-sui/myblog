@@ -37,7 +37,7 @@ He is a real-life teddy bear 🧸 and can understand Chinese and English command
 
 <br>
 
-In all honesty, these are sort of generic qualities that can really be fulfilled by anyone if they tried hard enough. But I'm confident in myself 😎 which makes me harder to catch 🤓 cos I know I'm a catch 😌 and I hope you are not reading into this post too seriously because it is highkey cringe 😬 but at least I know I am being ironic 🤭 for the purposes of making you laugh 🤗 cuz ur smile is the prettiest thing I've seen all day 😉 now that was smooth wasn't it 😁🧼	 careful not to slip on my slick words but even if you fall I'll catch you 🧺 bet your boyfriend can't do that cause he's too busy watching hentai on your work laptop 🙄🤧🙃 soo... text me when ur free? xoxo
+In all honesty, these are sort of generic qualities that can really be fulfilled by anyone if they tried hard enough. But I'm confident in myself 😎 which makes me harder to catch 🤓 cos I know I'm a catch 😌 and I hope you are not reading into this post too seriously because it is highkey cringe 😬 but at least I know I am being ironic 🤭 for the purposes of making you laugh 🤗 cuz ur smile is the prettiest thing I've seen all day 😉 now that was smooth wasn't it 😁🧼	 careful not to slip on my slick words but even if you fall I'll catch you 🧺 bet your boyfriend can't do that cause he's too busy watching hentai on your work laptop 🙄🤧🙃 soo... text me when ur free? xoxo 💋
 
 
 
