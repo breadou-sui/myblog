@@ -20,7 +20,6 @@ I'm not gonna pretend that the thought of not knowing who you are doesn't scare 
 
 Whoever you are, I hope that my blog inspires you to express your identity in whichever manner you choose.
 
-You can email me at squishyrainbow@gmail.com, but I might not respond due to the amount of Bitcoin spam I've been getting. If you like my blog, <a href="https://www.buymeacoffee.com/anniesui"> consider buying me <span style="color: #BF6DAF"> coffee ☕ </span></a>so I can keep creating this kind of content! Also, check out my secret YouTube channel (if you can find it, that is) 😜
+You can email me at squishyrainbow@gmail.com, but I might not respond due to the amount of Bitcoin spam I've been getting. If you like my blog, <a href="https://www.buymeacoffee.com/anniesui"> consider buying me <span style="color: #BF6DAF"> coffee ☕ </span></a>so I can keep creating this kind of content! 
 
-P.S. I would be highkey honored if you nominated me for a TED talk :) 
 </div>
