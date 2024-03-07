@@ -1,6 +1,6 @@
 +++
 author = "Annie Sui"
-title = "❤️‍🩹 What Not To Do When Asking Her Out"
+title = "❤️‍🩹 How Not To Ask Her Out"
 date = "2024-03-06"
 description = ""
 tags = [
